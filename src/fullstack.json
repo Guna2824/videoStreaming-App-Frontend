@@ -1,0 +1,26 @@
+[
+  {
+    "video": "https://www.youtube.com/watch?v=tfN9gPFmUfA",
+    "tittle": "HTML from Basic"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=tQbl54EjxQE",
+    "tittle": "Tailwind CSS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=SdyzXQoQO18",
+    "tittle": "NodeJS Backend"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=bo3fi5se1OM&t=6349s",
+    "tittle": "ExpressJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=CKaywM2qXpo",
+    "tittle": "MongoDB DataBase"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=HgePOoxoNZU",
+    "tittle": "Mongoose"
+  }
+]

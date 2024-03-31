@@ -1,0 +1,74 @@
+[
+  {
+    "video": "https://www.youtube.com/watch?v=emwAfCOog-s&t=245s",
+    "tittle": "Introduction in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=pGnZfsLnZLo",
+    "tittle": "JSX in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=Ij_sNSRBOqY&t=363s",
+    "tittle": "Props and props types in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=E9uYGTPDsNU&t=44s",
+    "tittle": "Profile card project in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=KqrWo525VUU",
+    "tittle": "QR code generator in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=mT3l-jdxyA4&t=40s",
+    "tittle": "UseState in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=0ieaB7NoSQ0&t=64s",
+    "tittle": "Building Dynamic state in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=5ss1lIpkh1o&t=48s",
+    "tittle": "API integration in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=u2U0gTRZKaQ&t=42s",
+    "tittle": "weather API in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=Eu64_aZtSmA&t=46s",
+    "tittle": "BMI calculator app in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=RNq1nYnhcuE&t=32s",
+    "tittle": "Currency converter in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=6Cr3uGirE7s&t=33s",
+    "tittle": "UseEffect in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=ldn0JMn8j2A&t=30s",
+    "tittle": "Digitel clock in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=uIjqybWVmEA&t=37s",
+    "tittle": "password generetor in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=440jdE3cHL0&t=52s",
+    "tittle": "FAQ accordion in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=mY8JEKhQf5c&t=41s",
+    "tittle": "Monthly sheet calculator in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=0lpsyvPHI2Q&t=1s",
+    "tittle": "Quiz App in ReactJS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=a7ed3ZnSK8M&t=40s",
+    "tittle": "Shopping card app in ReactJS"
+  }
+]

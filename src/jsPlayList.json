@@ -1,0 +1,134 @@
+[
+  {
+    "video": "https://www.youtube.com/watch?v=Rr2ykq7EbJU",
+    "tittle": "Introduction to JavaScript"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=WFpvTPn726M&t=2s",
+    "tittle": "Operators in JavaScript"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=tvWDtCVR-Z0&t=8s",
+    "tittle": "Prompt in JavaScript"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=ugYt9LWiP40",
+    "tittle": "Document Object Model"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=KM9KRHE8cyI",
+    "tittle": "Math Functions"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=uwXAMVoP9zQ&t=309s",
+    "tittle": "String in JavaScript"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=4xep7LgrAOk",
+    "tittle": "Template Literals"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=-J4dixVVQtU",
+    "tittle": "Arrays and Array Methods"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=4R8GslmOJMc&t=451s",
+    "tittle": "If eles"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=n4mOxd7bQ9g",
+    "tittle": "Switch Case"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=FgfzGY0FMFk",
+    "tittle": "Objects in JavaScript"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=5C2xSNncnSg",
+    "tittle": "Loops - For, While, Do While"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=G7vpLr0yXoI&t=13s",
+    "tittle": "Color Flipper"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=6f_xknepG8Q",
+    "tittle": "Different ways to write JS function"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=H_2fwryJ-_4&t=12s",
+    "tittle": "CallBack and ForEach"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=Z8MOgvwP-HQ",
+    "tittle": "Map, Filter and Reduce"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=-5A9FjK9HEc&t=457s",
+    "tittle": "Returning Functions and Colours"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=-ebS0lYfyko",
+    "tittle": "Memory Allocation in JS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=6v9d-DwFzS8",
+    "tittle": "set and map"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=bClE22ljWxQ",
+    "tittle": "5 must solve letcodes"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=k-U1kvjCNIE",
+    "tittle": "Object Oriented Programming in JS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=JHP-G2npIac",
+    "tittle": "Asynchronous in JavaScript"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=EiMzLHDxC1M",
+    "tittle": "Let as build a digital clock"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=_aQp_daNR3I",
+    "tittle": "Promise in JavaScript"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=D9HyjXplrpU",
+    "tittle": "Error Handling Try and Catch"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=UAtGCxVGv1o",
+    "tittle": "Async Await"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=hJZxq6tXhf0",
+    "tittle": "JSON - JavaScript Object Notaion"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=DHCtAUkBLpA&t=550s",
+    "tittle": "Fetch API"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=hJqBWhEupWE&t=275s",
+    "tittle": "Real tme currency converter"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=KbIt-zvnQQg&t=48s",
+    "tittle": "To Do list using Local Storage"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=QqLrLGARR94&t=1141s",
+    "tittle": "Form validation in JS"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=g3g3h-54ytA",
+    "tittle": "Responsive Navbar"
+  },
+  {
+    "video": "https://www.youtube.com/watch?v=BgZnuna9iYY",
+    "tittle": "Image Slider"
+  }
+]
