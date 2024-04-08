@@ -4,7 +4,7 @@ import ReactPlayer from "react-player";
 
 function Reactjs() {
   return (
-    <div className="flex flex-wrap justify-around mx-[10%] my-[75px] ">
+    <div className="flex flex-col items-center md:grid md:grid-cols-2 lg:grid-cols-3 gap-2 mx-[10%] my-[75px] ">
       {plays.map((play, index) => {
         return (
           <div
